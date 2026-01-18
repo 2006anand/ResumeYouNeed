@@ -63,15 +63,15 @@
 ## 🧩 The Problem We're Solving
 
 ### For Job Seekers 👨‍💼
-- ❌ **80% of resumes** are rejected by ATS before human review
-- ❌ **No clarity** on why applications fail
-- ❌ **Skill gaps** remain invisible until interview stage
-- ❌ **Generic resumes** fail to match job descriptions
+- **80% of resumes** are rejected by ATS before human review
+- **No clarity** on why applications fail
+- **Skill gaps** remain invisible until interview stage
+- **Generic resumes** fail to match job descriptions
 
 ### For Recruiters 🏢
-- ❌ **Manual screening** of 100+ applications per role
-- ❌ **Bias in candidate comparison** without data
-- ❌ **Time wasted** on unqualified candidates
+- **Manual screening** of 100+ applications per role
+- **Bias in candidate comparison** without data
+- **Time wasted** on unqualified candidates
 
   ---
 
@@ -325,6 +325,7 @@ We truly appreciate your time, feedback, and evaluation.
 
 —
 Team BYTE BREAKER 🚀
+Anand Kumar Jha
 
 
 ### ⭐ **Star this repo if ResumeYouNeed helped you!** ⭐
