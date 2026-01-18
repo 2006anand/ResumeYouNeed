@@ -3,7 +3,7 @@
 
 
 
-🚀 **Live Demo:* https://resume-youneed-anandjha.vercel.app/
+🚀 **Live Demo:* https://resume-youneedanandjha.vercel.app/
 
 
 📦 **GitHub Repository:* https://github.com/2006anand/ResumeYouNeed
