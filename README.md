@@ -22,6 +22,23 @@
 *Team Name:* TEAM BYTE BREAKER  
 *Team Leader:* Anand Kumar Jha  
 
+---
+
+## 👥 Team BYTE BREAKER
+
+<div align="center">
+
+| Role | Name | Contribution |
+|:----:|:----:|:------------:|
+| 🎯 **Team Leader** | **Anand Kumar Jha** | Architecture, AI Integration, Backend Logic |
+| 💻 **Developer** | Aditya Singh | Frontend Components, State Management |
+| 🎨 **Designer** | Debashrita Mandal | UI/UX Design, Styling |
+| 📊 **Analyst** | Aaryan Lal Das | Data Visualization, Charts |
+
+</div>
+
+---
+
 
 
 ---
@@ -177,19 +194,6 @@ Recruiter has 2 equally qualified candidates. Our AI analyzes their fit for the 
 5. Results displayed with interactive UI elements
 
 ---
-
-## 👥 Team BYTE BREAKER
-
-<div align="center">
-
-| Role | Name | Contribution |
-|:----:|:----:|:------------:|
-| 🎯 **Team Leader** | **Anand Kumar Jha** | Architecture, AI Integration, Backend Logic |
-| 💻 **Developer** | Aditya Singh | Frontend Components, State Management |
-| 🎨 **Designer** | Debashrita Mandal | UI/UX Design, Styling |
-| 📊 **Analyst** | Aaryan Lal Das | Data Visualization, Charts |
-
-</div>
 
 ---
 
