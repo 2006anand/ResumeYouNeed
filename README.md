@@ -1,5 +1,5 @@
 # 🏆 ResumeYouNeed  
-### AI-Powered Career Toolkit | Hackathon Submission
+###  TechSprint Hackathon Submission 
 
 
 
