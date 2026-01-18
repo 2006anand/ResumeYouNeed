@@ -294,16 +294,6 @@ We take data security seriously:
 - 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions!
----
-
-## 📄 License
-
-This project is licensed under the MIT License 
----
-
 ## 💡 Use Cases
 
 ### For Students
@@ -325,21 +315,6 @@ This project is licensed under the MIT License
 - Help clients improve resumes
 - Identify training opportunities
 - Track career progression
-
----
-
-## 🌐 Browser Support
-
-| Browser | Supported | Version |
-|---------|-----------|---------|
-| Chrome | ✅ | Latest 2 versions |
-| Firefox | ✅ | Latest 2 versions |
-| Safari | ✅ | Latest 2 versions |
-| Edge | ✅ | Latest 2 versions |
-| Opera | ✅ | Latest version |
-
-**Note:** For best PDF export experience, we recommend Chrome or Edge.
-
 ---
 
 ## 📞 Support & Contact
@@ -347,18 +322,17 @@ This project is licensed under the MIT License
 **Have questions?** We're here to help!
 
 - 📧 **Email:** an91aan99jha@gmail.com
-- 💼 **LinkedIn:** [Anand Kumar Jha](https://linkedin.com/company/bytebreaker)
-- 🐙 **GitHub Issues:** [Report a bug](https://github.com/2006anand/ResumeYouNeed/issues)
-- 💬 **Discussions:** [Join the conversation](https://github.com/2006anand/ResumeYouNeed/discussions)
+- 💼 **LinkedIn:** [Anand Kumar Jha](https://www.linkedin.com/in/anand-kumar-a308bb204/)
+- 🐙 **GitHub Issues:** [Report a bug](https://github.com/2006anand/)
 
 ---
 
 
 ## 🎬 Video Demo
 
-**Full Walkthrough:** Available on request
+**Full Walkthrough:** 
 
-**Quick Demo:** [Watch on YouTube](https://youtube.com) 
+**Quick Demo:** [Watch](https://youtube.com) 
 
 ---
 
@@ -370,7 +344,6 @@ This project is licensed under the MIT License
 
 ---
 
-**Made for Google Hackathon 2025** | **Powered by Google Gemini**
 
 [↑ Back to Top](#-resumeyouneed--google-hackathon-2025)
 
