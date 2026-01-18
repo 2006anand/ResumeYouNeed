@@ -1,4 +1,4 @@
-# 🎯 ResumeYouNeed | Google Hackathon 2025
+#  ResumeYouNeed | TechSprint Hackathon 
 
 <div align="center">
 
