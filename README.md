@@ -1,20 +1,28 @@
-#  ResumeYouNeed | TechSprint Hackathon 
+# 🏆 ResumeYouNeed  
+### AI-Powered Career Toolkit | Hackathon Submission
 
-<div align="center">
 
-![ResumeYouNeed Banner](https://img.shields.io/badge/ResumeYouNeed-AI%20Career%20Platform-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### *The Complete AI Career Suite That Bridges Job Seekers & Recruiters*
+🚀 *Live Demo: https://resume-youneedanandjha.vercel.app/
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-success?style=for-the-badge)](https://resume-youneedanandjha.vercel.app/)
-[![GitHub](https://img.shields.io/badge/📦_GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/2006anand/ResumeYouNeed)
-[![TypeScript](https://img.shields.io/badge/TypeScript-96%25-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/2006anand/ResumeYouNeed)
-[![Powered by Gemini](https://img.shields.io/badge/Powered_by-Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[Features](#-key-features) • [Demo](#-live-demo) • [Tech Stack](#️-tech-stack) • [Installation](#-quick-start) • [Team](#-team-byte-breaker)
+📦 *GitHub Repository: https://github.com/2006anand/ResumeYouNeed
 
-</div>
+ 🚀 Live MVP Demo
+
+👉 https://resume-youneed-anandjha.vercel.app/
+
+🎬 Demo Video Link:
+👉 (Add your demo video link here)
+
+---
+
+## 👥 Team Details
+
+*Team Name:* TEAM BYTE BREAKER  
+*Team Leader:* Anand Kumar Jha  
+
+
 
 ---
 
@@ -111,7 +119,7 @@ Recruiter has 2 equally qualified candidates. Our AI analyzes their fit for the 
 
 ### 🔗 **[Try ResumeYouNeed Now](https://resume-youneedanandjha.vercel.app/)**
 
-**Judge Walkthrough (5 minutes):**
+**Judges Walkthrough :**
 1. **Resume Builder** - Create a professional resume
 2. **Job Matcher** - Check ATS compatibility score
 3. **Candidate Comparator** - Compare two candidates side-by-side
@@ -170,59 +178,6 @@ Recruiter has 2 equally qualified candidates. Our AI analyzes their fit for the 
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-```bash
-Node.js 18+ 
-npm or yarn
-Google Gemini API Key
-```
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/2006anand/ResumeYouNeed.git
-cd ResumeYouNeed
-
-# Install dependencies
-npm install
-
-# Set up environment variables
-# Create a .env file in the root directory
-echo "VITE_GEMINI_API_KEY=your_api_key_here" > .env
-
-# Run development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Preview production build
-npm run preview
-```
-
-### 🔑 Getting Your Gemini API Key
-
-1. Visit [Google AI Studio](https://ai.google.dev/)
-2. Sign in with your Google account
-3. Click "Get API Key" in the dashboard
-4. Create a new project (or use existing)
-5. Generate API key
-6. Copy the key and add it to your `.env` file
-
-### Environment Variables
-
-Create a `.env` file in the root directory:
-
-```env
-VITE_GEMINI_API_KEY=your_gemini_api_key_here
-```
-
----
-
 ## 👥 Team BYTE BREAKER
 
 <div align="center">
@@ -262,15 +217,18 @@ Throughout this hackathon, our team gained expertise in:
 - Responsive design for all devices
 
 ### 🚧 Future Enhancements
-- [ ] Multi-language support (5+ languages)
-- [ ] LinkedIn profile import
-- [ ] Cover letter generator
-- [ ] Skill learning path recommendations
-- [ ] Recruiter dashboard with analytics
-- [ ] Email integration for direct applications
-- [ ] Mobile app (React Native)
-- [ ] Chrome extension for LinkedIn
 
+- Role‑Specific Resume Versions
+  Auto‑tailored resumes for different job roles
+
+- Advanced ATS & Skill Analysis
+  Deep ATS simulation with keyword insights
+
+- Recruiter Dashboard
+  Bulk candidate comparison & smart shortlisting
+
+- Profile Storage & Integrations
+  Save progress + LinkedIn/GitHub integration
 ---
 
 ## 📊 Impact Metrics
@@ -294,8 +252,8 @@ Throughout this hackathon, our team gained expertise in:
 - ✅ **Google Technology:** Gemini AI (primary AI engine)
 - ✅ **Fully Functional:** Deployed & accessible via live URL
 - ✅ **Documentation:** Comprehensive README with setup guide
-- ✅ **Demo-Ready:** Can be evaluated in under 5 minutes
-- ✅ **Scalable:** Architecture supports 10,000+ users
+- ✅ **Demo-Ready:** Can be evaluated in under 3 minutes
+- ✅ **Scalable:** Architecture supports multiple users
 - ✅ **Responsible AI:** Bias mitigation in candidate comparison
 - ✅ **Open Source:** MIT License, available on GitHub
 
@@ -329,75 +287,17 @@ We take data security seriously:
 - ✅ HTTPS encryption for all communications
 - 📝 Transparent data usage policies
 - 🛡️ Gemini API compliance with Google's AI principles
-
----
-
-## 🐛 Known Issues & Limitations
-
-**Current Limitations:**
-- PDF export works best on Chrome/Edge (Firefox may have styling issues)
-- Gemini API rate limits apply (60 requests/minute)
-- Large resumes (>5 pages) may take longer to process
-
-**Planned Fixes:**
-- Multi-browser PDF rendering compatibility
-- Request queuing for rate limit management
-- Pagination for large documents
-
+- 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-**Contribution Guidelines:**
-- Follow TypeScript best practices
-- Add tests for new features
-- Update documentation as needed
-- Maintain code style consistency
-
+We welcome contributions!
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**MIT License Summary:**
-- ✅ Commercial use allowed
-- ✅ Modification allowed
-- ✅ Distribution allowed
-- ✅ Private use allowed
-- ⚠️ Liability and warranty not provided
-
----
-
-## 🙏 Acknowledgments
-
-Special thanks to:
-
-- **Google Gemini Team** for providing the powerful AI API
-- **Recharts Contributors** for the excellent visualization library
-- **Tailwind CSS Team** for the utility-first CSS framework
-- **Hackathon Organizers** for this incredible opportunity
-- **Beta Testers** who provided invaluable feedback
-- **Open Source Community** for inspiration and support
-
----
-
-## 📚 Additional Resources
-
-- 📖 [Gemini API Documentation](https://ai.google.dev/docs)
-- 🎨 [Project Wiki](https://github.com/2006anand/ResumeYouNeed/wiki)
-- 🏗️ [Architecture Documentation](https://github.com/2006anand/ResumeYouNeed/wiki/Architecture)
-- 🧪 [Contributing Guide](https://github.com/2006anand/ResumeYouNeed/blob/main/CONTRIBUTING.md)
-- 📝 [Changelog](https://github.com/2006anand/ResumeYouNeed/blob/main/CHANGELOG.md)
-
+This project is licensed under the MIT License 
 ---
 
 ## 💡 Use Cases
@@ -442,60 +342,27 @@ Special thanks to:
 
 **Have questions?** We're here to help!
 
-- 📧 **Email:** teambytebreaker@gmail.com
-- 💼 **LinkedIn:** [Team BYTE BREAKER](https://linkedin.com/company/bytebreaker)
+- 📧 **Email:** an91aan99jha@gmail.com
+- 💼 **LinkedIn:** [Anand Kumar Jha](https://linkedin.com/company/bytebreaker)
 - 🐙 **GitHub Issues:** [Report a bug](https://github.com/2006anand/ResumeYouNeed/issues)
 - 💬 **Discussions:** [Join the conversation](https://github.com/2006anand/ResumeYouNeed/discussions)
 
-**For Judges:** If you need clarification on any technical aspect, please reach out via the hackathon platform or create a GitHub issue.
-
 ---
 
-## 📈 Project Stats
-
-<div align="center">
-
-![GitHub Stars](https://img.shields.io/github/stars/2006anand/ResumeYouNeed?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/2006anand/ResumeYouNeed?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/2006anand/ResumeYouNeed)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/2006anand/ResumeYouNeed)
-![License](https://img.shields.io/github/license/2006anand/ResumeYouNeed)
-
-</div>
-
----
 
 ## 🎬 Video Demo
 
 **Full Walkthrough:** Available on request
 
-**Quick Demo:** [Watch on YouTube](https://youtube.com) (Coming Soon)
+**Quick Demo:** [Watch on YouTube](https://youtube.com) 
 
 ---
 
-## 📸 Screenshots
 
-### Resume Builder
-*Interactive AI-powered resume creation interface with live preview*
-
-### Job Matcher
-*Real-time ATS compatibility scoring and skill gap analysis*
-
-### Candidate Comparator
-*Side-by-side candidate comparison with radar chart visualization*
-
-> **Note:** Screenshots available in the live demo at [resume-youneedanandjha.vercel.app](https://resume-youneedanandjha.vercel.app/)
-
----
-
-<div align="center">
 
 ### ⭐ **Star this repo if ResumeYouNeed helped you!** ⭐
 
 **Built with ❤️ by Team BYTE BREAKER**
-
-[![GitHub Stars](https://img.shields.io/github/stars/2006anand/ResumeYouNeed?style=social)](https://github.com/2006anand/ResumeYouNeed)
-[![Follow](https://img.shields.io/github/followers/2006anand?style=social)](https://github.com/2006anand)
 
 ---
 
