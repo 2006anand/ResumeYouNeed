@@ -12,9 +12,9 @@
 
 👉 https://resume-youneed-anandjha.vercel.app/
 
-🎬 Demo Video Link:
-👉 (https://resume-youneedanandjha.vercel.app/
-)
+🎬 Solution Explanation Video Link:
+👉 https://drive.google.com/file/d/13nbh2dhRNP1tqGR8uHfyUTXz8kqwbXNk/view?usp=sharing
+
 
 ---
 
