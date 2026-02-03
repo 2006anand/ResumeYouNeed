@@ -1,12 +1,14 @@
 # 🏆 ResumeYouNeed  
-###  TechSprint Hackathon Submission 
-
-
+### **Winner – Google TechSprint Hackathon 2025** 🚀  
+> **Ranked Winner | Team BYTE BREAKER**
 
 🚀 *Live Demo: https://resume-youneedanandjha.vercel.app/
 
+## 🏆 Hackathon Achievement
+✅ **Winner – GDGoC TechSprint Hackathon-2025 (Hack2Skill)**  
+✅ Evaluated on **Innovation, Technical Execution, UX, and Real-World Impact**  
+✅ Built & deployed during the hackathon period  
 
-📦 *GitHub Repository: https://github.com/2006anand/ResumeYouNeed
 
  🚀 Live MVP Demo
 
