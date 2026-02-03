@@ -7,8 +7,6 @@
 ## 🏆 Hackathon Achievement
 ✅ **Winner – GDGoC TechSprint Hackathon-2025 (Hack2Skill)**  
 ✅ Evaluated on **Innovation, Technical Execution, UX, and Real-World Impact**  
-✅ Built & deployed during the hackathon period  
-
 
  🚀 Live MVP Demo
 
