@@ -1,6 +1,6 @@
 # 🏆 ResumeYouNeed  
 ### **Winner – Google TechSprint Hackathon 2025** 🚀  
-> **Ranked Winner | Team BYTE BREAKER**
+> # **Ranked Winner | Team BYTE BREAKER**
 
 🚀 *Live Demo: https://resume-youneedanandjha.vercel.app/
 
